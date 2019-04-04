@@ -22,7 +22,6 @@
           <groupId>org.jenkins-ci.main</groupId>
           <artifactId>jenkins-war</artifactId>
           <version>2.86</version>
-          <scope>test</scope>
         <configuration>
           <archive>
             <manifest>
